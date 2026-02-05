@@ -65,7 +65,7 @@ export default function QRScreen() {
                         <Text style={{ color: '#000' }}>Generating...</Text>
                     )}
                 </View>
-                <Text style={styles.helperText}>Show this to the bouncer</Text>
+                <Text style={styles.helperText}>Show this to the validator</Text>
 
                 <View style={styles.timerContainer}>
                     <Text style={styles.timerLabel}>Refreshing in</Text>
